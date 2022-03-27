@@ -1,0 +1,6 @@
+/Users/daniel/Desktop/Workspace/CalculadoraBasica/CalculadoraBasica/bin/Debug/CalculadoraBasica.exe
+/Users/daniel/Desktop/Workspace/CalculadoraBasica/CalculadoraBasica/bin/Debug/CalculadoraBasica.pdb
+/Users/daniel/Desktop/Workspace/CalculadoraBasica/CalculadoraBasica/obj/Debug/CalculadoraBasica.csprojAssemblyReference.cache
+/Users/daniel/Desktop/Workspace/CalculadoraBasica/CalculadoraBasica/obj/Debug/CalculadoraBasica.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/Workspace/CalculadoraBasica/CalculadoraBasica/obj/Debug/CalculadoraBasica.exe
+/Users/daniel/Desktop/Workspace/CalculadoraBasica/CalculadoraBasica/obj/Debug/CalculadoraBasica.pdb
