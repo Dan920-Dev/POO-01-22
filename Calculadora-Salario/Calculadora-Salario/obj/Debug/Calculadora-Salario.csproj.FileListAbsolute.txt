@@ -1,0 +1,6 @@
+/Users/daniel/Desktop/Workspace/POO-01-22/Calculadora-Salario/Calculadora-Salario/bin/Debug/Calculadora_Salario.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/Calculadora-Salario/Calculadora-Salario/bin/Debug/Calculadora_Salario.pdb
+/Users/daniel/Desktop/Workspace/POO-01-22/Calculadora-Salario/Calculadora-Salario/obj/Debug/Calculadora-Salario.csprojAssemblyReference.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/Calculadora-Salario/Calculadora-Salario/obj/Debug/Calculadora-Salario.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/Calculadora-Salario/Calculadora-Salario/obj/Debug/Calculadora_Salario.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/Calculadora-Salario/Calculadora-Salario/obj/Debug/Calculadora_Salario.pdb
