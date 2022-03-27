@@ -1,0 +1,6 @@
+/Users/daniel/Desktop/Workspace/POO-01-22/Reordenar-Numeros/Reordenar-Numeros/bin/Debug/Reordenar_Numeros.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/Reordenar-Numeros/Reordenar-Numeros/bin/Debug/Reordenar_Numeros.pdb
+/Users/daniel/Desktop/Workspace/POO-01-22/Reordenar-Numeros/Reordenar-Numeros/obj/Debug/Reordenar-Numeros.csprojAssemblyReference.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/Reordenar-Numeros/Reordenar-Numeros/obj/Debug/Reordenar-Numeros.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/Reordenar-Numeros/Reordenar-Numeros/obj/Debug/Reordenar_Numeros.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/Reordenar-Numeros/Reordenar-Numeros/obj/Debug/Reordenar_Numeros.pdb
