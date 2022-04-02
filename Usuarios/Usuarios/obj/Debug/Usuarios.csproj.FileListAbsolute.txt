@@ -1,0 +1,6 @@
+/Users/daniel/Desktop/Workspace/POO-01-22/Usuarios/Usuarios/bin/Debug/Usuarios.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/Usuarios/Usuarios/bin/Debug/Usuarios.pdb
+/Users/daniel/Desktop/Workspace/POO-01-22/Usuarios/Usuarios/obj/Debug/Usuarios.csprojAssemblyReference.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/Usuarios/Usuarios/obj/Debug/Usuarios.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/Usuarios/Usuarios/obj/Debug/Usuarios.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/Usuarios/Usuarios/obj/Debug/Usuarios.pdb
