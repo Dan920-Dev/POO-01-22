@@ -1,0 +1,6 @@
+/Users/daniel/Desktop/Workspace/POO-01-22/OperacionesBasicas-Clase/OperacionesBasicas-Clase/bin/Debug/OperacionesBasicas_Clase.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/OperacionesBasicas-Clase/OperacionesBasicas-Clase/bin/Debug/OperacionesBasicas_Clase.pdb
+/Users/daniel/Desktop/Workspace/POO-01-22/OperacionesBasicas-Clase/OperacionesBasicas-Clase/obj/Debug/OperacionesBasicas-Clase.csprojAssemblyReference.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/OperacionesBasicas-Clase/OperacionesBasicas-Clase/obj/Debug/OperacionesBasicas-Clase.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/Workspace/POO-01-22/OperacionesBasicas-Clase/OperacionesBasicas-Clase/obj/Debug/OperacionesBasicas_Clase.exe
+/Users/daniel/Desktop/Workspace/POO-01-22/OperacionesBasicas-Clase/OperacionesBasicas-Clase/obj/Debug/OperacionesBasicas_Clase.pdb
