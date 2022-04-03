@@ -21,6 +21,7 @@ namespace Calculadora_Salario
             Console.WriteLine("Genero: " + empleado1.getGenero());
             Console.WriteLine("Anio de Nacimiento: " + empleado1.getNacimiento());
             Console.WriteLine("Retiro: " + empleado1.calcularRetiro());
+            empleado1.valores();
             Console.WriteLine("Total de deducciones: $" + empleado1.calcularDeducciones());
             Console.WriteLine("Salario final: $");
             Console.WriteLine();

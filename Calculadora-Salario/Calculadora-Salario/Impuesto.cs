@@ -19,5 +19,6 @@ namespace Calculadora_Salario
         {
             return porcentaje;
         }
+        
     }
 }
